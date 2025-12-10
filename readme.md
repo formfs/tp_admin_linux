@@ -1,8 +1,9 @@
 # TP Administration linux
 
 ## Installer un serveur dans une vm :
+* OS : Debian,Ubuntu
 * 1 CPU
-* 256 Mo RAM
+* 512 Mo RAM
 * 10Go DD
 * Ajouter un utilisateur avec droit sudo
 * Installer les applications suivantes : tmux,ufw,docker
